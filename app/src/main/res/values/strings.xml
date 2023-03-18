@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PerhitunganGaji</string>
+    <string name="program_per">Program Perhitungan Gaji</string>
+    <string name="masukan_nam">Masukan Nama Anda</string>
+    <string name="text1">Program Perhitungan Gaji</string>
+    <string name="text2">Masukan Nama Anda</string>
+    <string name="text3">Status</string>
+    <string name="text4">Golongan</string>
+    <string name="text5">Hasil Perhitungan</string>
+    <string name="text6">Nama</string>
+    <string name="text7">Nama Kamu</string>
+    <string name="text8">Status</string>
+    <string name="text9">Status Kamu</string>
+    <string name="text10">Golongan</string>
+    <string name="text11">Total Gaji</string>
+    <string name="input1">Nama</string>
+    <string name="input2">Menikah</string>
+    <string name="input3">Golongan 1</string>
+    <string name="input4">Golongan 2</string>
+    <string name="btn1">Hitung Gaji</string>
+    <string name="input5">Golongan Kamu</string>
+    <string name="input6">Total Gaji</string>
+    <string name="gol1">Golongan 1</string>
+    <string name="gol3">Golongan 2</string>
+</resources>
